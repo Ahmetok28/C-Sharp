@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\bin\Debug\net5.0\If_ElseIf_Ternary_If.exe
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\bin\Debug\net5.0\If_ElseIf_Ternary_If.deps.json
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\bin\Debug\net5.0\If_ElseIf_Ternary_If.runtimeconfig.json
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\bin\Debug\net5.0\If_ElseIf_Ternary_If.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\bin\Debug\net5.0\If_ElseIf_Ternary_If.dll
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\bin\Debug\net5.0\ref\If_ElseIf_Ternary_If.dll
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\bin\Debug\net5.0\If_ElseIf_Ternary_If.pdb
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\If_ElseIf_Ternary_If.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\If_ElseIf_Ternary_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\If_ElseIf_Ternary_If.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\If_ElseIf_Ternary_If.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\If_ElseIf_Ternary_If.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\If_ElseIf_Ternary_If.dll
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\ref\If_ElseIf_Ternary_If.dll
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\If_ElseIf_Ternary_If.pdb
+C:\Users\Ahmet\source\repos\If_ElseIf_Ternary_If\If_ElseIf_Ternary_If\obj\Debug\net5.0\If_ElseIf_Ternary_If.genruntimeconfig.cache

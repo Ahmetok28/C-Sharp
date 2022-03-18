@@ -1,0 +1,15 @@
+C:\Users\Ahmet\source\repos\try-catch\try-catch\bin\Debug\net5.0\try-catch.exe
+C:\Users\Ahmet\source\repos\try-catch\try-catch\bin\Debug\net5.0\try-catch.deps.json
+C:\Users\Ahmet\source\repos\try-catch\try-catch\bin\Debug\net5.0\try-catch.runtimeconfig.json
+C:\Users\Ahmet\source\repos\try-catch\try-catch\bin\Debug\net5.0\try-catch.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\try-catch\try-catch\bin\Debug\net5.0\try-catch.dll
+C:\Users\Ahmet\source\repos\try-catch\try-catch\bin\Debug\net5.0\ref\try-catch.dll
+C:\Users\Ahmet\source\repos\try-catch\try-catch\bin\Debug\net5.0\try-catch.pdb
+C:\Users\Ahmet\source\repos\try-catch\try-catch\obj\Debug\net5.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\try-catch\try-catch\obj\Debug\net5.0\try-catch.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\try-catch\try-catch\obj\Debug\net5.0\try-catch.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\try-catch\try-catch\obj\Debug\net5.0\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\try-catch\try-catch\obj\Debug\net5.0\try-catch.dll
+C:\Users\Ahmet\source\repos\try-catch\try-catch\obj\Debug\net5.0\ref\try-catch.dll
+C:\Users\Ahmet\source\repos\try-catch\try-catch\obj\Debug\net5.0\try-catch.pdb
+C:\Users\Ahmet\source\repos\try-catch\try-catch\obj\Debug\net5.0\try-catch.genruntimeconfig.cache

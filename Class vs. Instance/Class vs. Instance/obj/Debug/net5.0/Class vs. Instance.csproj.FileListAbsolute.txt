@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\bin\Debug\net5.0\Class vs. Instance.exe
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\bin\Debug\net5.0\Class vs. Instance.deps.json
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\bin\Debug\net5.0\Class vs. Instance.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\bin\Debug\net5.0\Class vs. Instance.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\bin\Debug\net5.0\Class vs. Instance.dll
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\bin\Debug\net5.0\ref\Class vs. Instance.dll
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\bin\Debug\net5.0\Class vs. Instance.pdb
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\Class vs. Instance.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\Class vs. Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\Class vs. Instance.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\Class vs. Instance.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\Class vs. Instance.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\Class vs. Instance.dll
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\ref\Class vs. Instance.dll
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\Class vs. Instance.pdb
+C:\Users\Ahmet\source\repos\Class vs. Instance\Class vs. Instance\obj\Debug\net5.0\Class vs. Instance.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+C:\Users\Ahmet\source\repos\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache

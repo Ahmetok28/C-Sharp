@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar-Recursive_Extensions", "Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions.csproj", "{D575EF60-FC71-44BE-8CA5-A4EFF8C9601F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D575EF60-FC71-44BE-8CA5-A4EFF8C9601F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D575EF60-FC71-44BE-8CA5-A4EFF8C9601F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D575EF60-FC71-44BE-8CA5-A4EFF8C9601F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D575EF60-FC71-44BE-8CA5-A4EFF8C9601F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32F8893-2766-4D09-ACF9-AD3CE12506D4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\bin\Debug\net5.0\Array-Sinifi.exe
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\bin\Debug\net5.0\Array-Sinifi.deps.json
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\bin\Debug\net5.0\Array-Sinifi.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\bin\Debug\net5.0\Array-Sinifi.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\bin\Debug\net5.0\Array-Sinifi.dll
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\bin\Debug\net5.0\ref\Array-Sinifi.dll
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\bin\Debug\net5.0\Array-Sinifi.pdb
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\Array-Sinifi.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\Array-Sinifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\Array-Sinifi.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\Array-Sinifi.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\Array-Sinifi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\Array-Sinifi.dll
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\ref\Array-Sinifi.dll
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\Array-Sinifi.pdb
+C:\Users\Ahmet\source\repos\Array-Sinifi\Array-Sinifi\obj\Debug\net5.0\Array-Sinifi.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\bin\Debug\net5.0\While-Foreach.exe
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\bin\Debug\net5.0\While-Foreach.deps.json
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\bin\Debug\net5.0\While-Foreach.runtimeconfig.json
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\bin\Debug\net5.0\While-Foreach.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\bin\Debug\net5.0\While-Foreach.dll
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\bin\Debug\net5.0\ref\While-Foreach.dll
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\bin\Debug\net5.0\While-Foreach.pdb
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\While-Foreach.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\While-Foreach.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\While-Foreach.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\While-Foreach.dll
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\ref\While-Foreach.dll
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\While-Foreach.pdb
+C:\Users\Ahmet\source\repos\While-Foreach\While-Foreach\obj\Debug\net5.0\While-Foreach.genruntimeconfig.cache

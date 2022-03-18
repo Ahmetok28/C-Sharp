@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.exe
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.deps.json
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\ref\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\ref\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+C:\Users\Ahmet\source\repos\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.genruntimeconfig.cache

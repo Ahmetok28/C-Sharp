@@ -1,0 +1,14 @@
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\bin\Debug\netcoreapp3.1\TelefonRehberiTODO.exe
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\bin\Debug\netcoreapp3.1\TelefonRehberiTODO.deps.json
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\bin\Debug\netcoreapp3.1\TelefonRehberiTODO.runtimeconfig.json
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\bin\Debug\netcoreapp3.1\TelefonRehberiTODO.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\bin\Debug\netcoreapp3.1\TelefonRehberiTODO.dll
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\bin\Debug\netcoreapp3.1\TelefonRehberiTODO.pdb
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\obj\Debug\netcoreapp3.1\TelefonRehberiTODO.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\obj\Debug\netcoreapp3.1\TelefonRehberiTODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\obj\Debug\netcoreapp3.1\TelefonRehberiTODO.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\obj\Debug\netcoreapp3.1\TelefonRehberiTODO.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\obj\Debug\netcoreapp3.1\TelefonRehberiTODO.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\obj\Debug\netcoreapp3.1\TelefonRehberiTODO.dll
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\obj\Debug\netcoreapp3.1\TelefonRehberiTODO.pdb
+C:\Users\Ahmet\source\repos\TelefonRehberiTODO\TelefonRehberiTODO\obj\Debug\netcoreapp3.1\TelefonRehberiTODO.genruntimeconfig.cache

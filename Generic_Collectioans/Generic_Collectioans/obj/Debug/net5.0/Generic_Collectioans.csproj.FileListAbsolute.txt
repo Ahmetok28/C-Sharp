@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\Generic_Collectioans.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\Generic_Collectioans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\Generic_Collectioans.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\Generic_Collectioans.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\Generic_Collectioans.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\bin\Debug\net5.0\Generic_Collectioans.exe
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\bin\Debug\net5.0\Generic_Collectioans.deps.json
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\bin\Debug\net5.0\Generic_Collectioans.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\bin\Debug\net5.0\Generic_Collectioans.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\bin\Debug\net5.0\Generic_Collectioans.dll
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\bin\Debug\net5.0\ref\Generic_Collectioans.dll
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\bin\Debug\net5.0\Generic_Collectioans.pdb
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\Generic_Collectioans.dll
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\ref\Generic_Collectioans.dll
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\Generic_Collectioans.pdb
+C:\Users\Ahmet\source\repos\Generic_Collectioans\Generic_Collectioans\obj\Debug\net5.0\Generic_Collectioans.genruntimeconfig.cache

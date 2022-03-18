@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\bin\Debug\net5.0\Metotlar-Recursive_Extensions.exe
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\bin\Debug\net5.0\Metotlar-Recursive_Extensions.deps.json
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\bin\Debug\net5.0\Metotlar-Recursive_Extensions.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\bin\Debug\net5.0\Metotlar-Recursive_Extensions.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\bin\Debug\net5.0\Metotlar-Recursive_Extensions.dll
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\bin\Debug\net5.0\ref\Metotlar-Recursive_Extensions.dll
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\bin\Debug\net5.0\Metotlar-Recursive_Extensions.pdb
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\Metotlar-Recursive_Extensions.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\Metotlar-Recursive_Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\Metotlar-Recursive_Extensions.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\Metotlar-Recursive_Extensions.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\Metotlar-Recursive_Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\Metotlar-Recursive_Extensions.dll
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\ref\Metotlar-Recursive_Extensions.dll
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\Metotlar-Recursive_Extensions.pdb
+C:\Users\Ahmet\source\repos\Metotlar-Recursive_Extensions\Metotlar-Recursive_Extensions\obj\Debug\net5.0\Metotlar-Recursive_Extensions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\bin\Debug\net5.0\Static-Sinif-Uyeleri.exe
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\bin\Debug\net5.0\Static-Sinif-Uyeleri.deps.json
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\bin\Debug\net5.0\Static-Sinif-Uyeleri.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\bin\Debug\net5.0\Static-Sinif-Uyeleri.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\bin\Debug\net5.0\Static-Sinif-Uyeleri.dll
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\bin\Debug\net5.0\ref\Static-Sinif-Uyeleri.dll
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\bin\Debug\net5.0\Static-Sinif-Uyeleri.pdb
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\Static-Sinif-Uyeleri.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\Static-Sinif-Uyeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\Static-Sinif-Uyeleri.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\Static-Sinif-Uyeleri.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\Static-Sinif-Uyeleri.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\Static-Sinif-Uyeleri.dll
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\ref\Static-Sinif-Uyeleri.dll
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\Static-Sinif-Uyeleri.pdb
+C:\Users\Ahmet\source\repos\Static-Sinif-Uyeleri\Static-Sinif-Uyeleri\obj\Debug\net5.0\Static-Sinif-Uyeleri.genruntimeconfig.cache

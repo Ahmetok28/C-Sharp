@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\bin\Debug\net5.0\MetodOverloading.exe
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\bin\Debug\net5.0\MetodOverloading.deps.json
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\bin\Debug\net5.0\MetodOverloading.runtimeconfig.json
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\bin\Debug\net5.0\MetodOverloading.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\bin\Debug\net5.0\MetodOverloading.dll
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\bin\Debug\net5.0\ref\MetodOverloading.dll
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\bin\Debug\net5.0\MetodOverloading.pdb
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\MetodOverloading.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\MetodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\MetodOverloading.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\MetodOverloading.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\MetodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\MetodOverloading.dll
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\ref\MetodOverloading.dll
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\MetodOverloading.pdb
+C:\Users\Ahmet\source\repos\MetodOverloading\MetodOverloading\obj\Debug\net5.0\MetodOverloading.genruntimeconfig.cache
